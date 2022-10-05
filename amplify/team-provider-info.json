@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-countback-dev-125815-authRole",
+      "UnauthRoleArn": "arn:aws:iam::605085520317:role/amplify-countback-dev-125815-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::605085520317:role/amplify-countback-dev-125815-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-countback-dev-125815-deployment",
+      "UnauthRoleName": "amplify-countback-dev-125815-unauthRole",
+      "StackName": "amplify-countback-dev-125815",
+      "StackId": "arn:aws:cloudformation:us-east-1:605085520317:stack/amplify-countback-dev-125815/4b6f5bc0-44d7-11ed-bf95-0a676b55ded3",
+      "AmplifyAppId": "d3drylv358cgwi"
+    },
+    "categories": {
+      "api": {
+        "countback": {}
+      },
+      "auth": {
+        "countbackbd8e0f1e": {}
+      }
+    }
+  }
+}
